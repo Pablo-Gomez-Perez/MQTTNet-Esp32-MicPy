@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "apxyW8WOOFGf/8ewPASsxrbpzXLfgbSfpYlRvdm7sbs=",
+  "Source": "My mqtt server",
+  "BasePath": "_content/My mqtt server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

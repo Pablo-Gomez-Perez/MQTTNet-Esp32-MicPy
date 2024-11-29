@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <IsPackable>false</IsPackable>
+        <DisableImplicitAspNetCoreAnalyzers>true</DisableImplicitAspNetCoreAnalyzers>
+        <EnableNETAnalyzers>false</EnableNETAnalyzers>
+        <EnforceCodeStyleInBuild>false</EnforceCodeStyleInBuild>
+        <NoWarn>1591;NETSDK1138;NU1803;NU1901;NU1902</NoWarn>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <NuGetAuditMode>all</NuGetAuditMode>
+        <NuGetAudit>true</NuGetAudit>
+        <NuGetAuditLevel>low</NuGetAuditLevel>
+        <AnalysisLevel>latest-Recommended</AnalysisLevel>
+    </PropertyGroup>
+
+    <ItemGroup>
+
+        <ProjectReference Include="..\Source\MQTTnet.AspnetCore\MQTTnet.AspNetCore.csproj"/>
+        <ProjectReference Include="..\Source\MQTTnet.Extensions.Rpc\MQTTnet.Extensions.Rpc.csproj"/>
+        <ProjectReference Include="..\Source\MQTTnet.Extensions.TopicTemplate\MQTTnet.Extensions.TopicTemplate.csproj" />
+        <ProjectReference Include="..\Source\MQTTnet.Server\MQTTnet.Server.csproj"/>
+        <ProjectReference Include="..\Source\MQTTnet\MQTTnet.csproj"/>
+    </ItemGroup>
+
+</Project>

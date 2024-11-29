@@ -1,0 +1,29 @@
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\bin\Debug\net8.0\appsettings.json
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\bin\Debug\net8.0\My mqtt server.exe
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\bin\Debug\net8.0\My mqtt server.deps.json
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\bin\Debug\net8.0\My mqtt server.runtimeconfig.json
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\bin\Debug\net8.0\My mqtt server.dll
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\bin\Debug\net8.0\My mqtt server.pdb
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\bin\Debug\net8.0\MQTTnet.AspNetCore.dll
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt server.csproj.AssemblyReference.cache
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt server.AssemblyInfoInputs.cache
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt server.AssemblyInfo.cs
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt server.csproj.CoreCompileInputs.cache
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\staticwebassets\msbuild.My mqtt server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\staticwebassets\msbuild.build.My mqtt server.props
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.My mqtt server.props
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.My mqtt server.props
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\scopedcss\bundle\My mqtt server.styles.css
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt .A2B49FD3.Up2Date
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt server.dll
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\refint\My mqtt server.dll
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt server.pdb
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\My mqtt server.genruntimeconfig.cache
+C:\Users\PABLO-LAP-LENOVO\Documents\gti programing projects\Dot net\Mqtt server\Net Core\My mqtt server\obj\Debug\net8.0\ref\My mqtt server.dll

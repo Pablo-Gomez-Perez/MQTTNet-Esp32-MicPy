@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlzZiRyZkzE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PABLO-LAP-LENOVO\\Documents\\gti programing projects\\Dot net\\Mqtt server\\Net Core\\My mqtt server\\My mqtt server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PABLO-LAP-LENOVO\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512",
+    "C:\\Users\\PABLO-LAP-LENOVO\\.nuget\\packages\\mqttnet.aspnetcore\\4.3.7.1207\\mqttnet.aspnetcore.4.3.7.1207.nupkg.sha512"
+  ],
+  "logs": []
+}
